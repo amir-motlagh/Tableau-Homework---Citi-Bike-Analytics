@@ -1,1 +1,39 @@
-# Tableau-Homework---Citi-Bike-Analytics
+# Jersey City Biking Pattern Changes
+### Written by Amir Motlagh
+_Tableau_
+
+## Summary of Project
+Tableau project to visualize how Jersey City biking patterns have changed in the time of Covid19. To view the Tableau visualization please visit my Tableau profile:
+
+**[Tableau Jersey City Covid19 CitiBike Rider Analysis](https://public.tableau.com/app/profile/amir.motlagh/viz/JerseyCityCitiBikeAnalysis2020_16564664446400/DashboardMap)**
+
+## Findings:
+
+* Ridership has decreased during the initial months of COVID. It then seems to rebound back quite fast. This pattern mirrors quarantine restrictions and lifting of them. 
+* The number "Customers" is a larger percentage of the total. This could be due to new riders. It could also be from people who don't want to ride the subway or a ride-share vehicle like Lyft.
+* People are riding their bikes for longer times. This could be because it is now their preferred mode of transportation because it's open-air vs enclosed like subways or cars. 
+
+![citibike1](images/citibike1.png)
+
+* Overall, riders on the weekdays have decreased, especially during rush hour times. This implies that fewer people are going to work. 
+* The percentage of non-subscribers have increased. This is because there are possibly more riders who are switching from the subway or ride-share apps like Lyft. It's known that there are higher rates of infection from enclosed spaces. Biking provides a great alternative because it's open-air and socially distant. 
+* Weekend ridership has increased in 2020. More people are recreating with bikes. This could be because it’s a socially distant acceptable activity.
+
+![citibike2](images/citibike2.png)
+
+* A notable change in ridership is that a higher percentage of riders in 2020 are women. Women accounted for 25.24% in 2020  up from 21.22% in 2019. While share of male ridership went from 72.78% down to 61.37% in 2020. The average age of riders held relatively steady in both years.
+
+![citibike2](images/citibike3.png)
+
+* In this view we can slide the bars to the right to see a time-lapse of ridership over the first 6 months in 2019 and 2020. Here we see that as the lockdown progressed, riding dispersed outside of the center of the city. It then rebounds as the lockdown was lifted. 
+
+![citibike2](images/citibike4.png)
+
+* Here is an interactive map with the starting and end stations in Jersey City.
+
+![citibike2](images/citibike5.png)
+
+
+### About the Data
+
+The data comes from the following website: [CitiBike Data Webpage](https://www.citibikenyc.com/system-data)
