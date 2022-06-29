@@ -13,7 +13,7 @@ Tableau project to visualize how Jersey City biking patterns have changed in the
 * The number "Customers" is a larger percentage of the total. This could be due to new riders. It could also be from people who don't want to ride the subway or a ride-share vehicle like Lyft.
 * People are riding their bikes for longer times. This could be because it is now their preferred mode of transportation because it's open-air vs enclosed like subways or cars. 
 
-![citibike1](images/citibike1.png)
+![citibike1](images/citibike1.PNG)
 
 * Overall, riders on the weekdays have decreased, especially during rush hour times. This implies that fewer people are going to work. 
 * The percentage of non-subscribers have increased. This is because there are possibly more riders who are switching from the subway or ride-share apps like Lyft. It's known that there are higher rates of infection from enclosed spaces. Biking provides a great alternative because it's open-air and socially distant. 
