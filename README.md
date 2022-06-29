@@ -19,19 +19,19 @@ Tableau project to visualize how Jersey City biking patterns have changed in the
 * The percentage of non-subscribers have increased. This is because there are possibly more riders who are switching from the subway or ride-share apps like Lyft. It's known that there are higher rates of infection from enclosed spaces. Biking provides a great alternative because it's open-air and socially distant. 
 * Weekend ridership has increased in 2020. More people are recreating with bikes. This could be because it’s a socially distant acceptable activity.
 
-![citibike2](images/citibike2.png)
+![citibike2](images/citibike2.PNG)
 
 * A notable change in ridership is that a higher percentage of riders in 2020 are women. Women accounted for 25.24% in 2020  up from 21.22% in 2019. While share of male ridership went from 72.78% down to 61.37% in 2020. The average age of riders held relatively steady in both years.
 
-![citibike2](images/citibike3.png)
+![citibike2](images/citibike3.PNG)
 
 * In this view we can slide the bars to the right to see a time-lapse of ridership over the first 6 months in 2019 and 2020. Here we see that as the lockdown progressed, riding dispersed outside of the center of the city. It then rebounds as the lockdown was lifted. 
 
-![citibike2](images/citibike4.png)
+![citibike2](images/citibike4.PNG)
 
 * Here is an interactive map with the starting and end stations in Jersey City.
 
-![citibike2](images/citibike5.png)
+![citibike2](images/citibike5.PNG)
 
 
 ### About the Data
